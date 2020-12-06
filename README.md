@@ -1,4 +1,4 @@
-# Welcome to Hau TR repository
+# Welcome to Hau Tr repository
 This repository is an online shopping project that sells moon cakes, a part of Web Java Lab (LAB231) course at FPT University, HCM Campus
 
 ## This project contains the following functions:
