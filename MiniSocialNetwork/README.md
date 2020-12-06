@@ -9,7 +9,7 @@ This repository is a Mini Social Network project, a part of the Web Java Lab (LA
 * Display article details
 * Search article
 * Delete the article
-* Make emotions actions (like, dislike button)
+* Make emotions actions such as like or dislike button
 
 ## Connect me via
 1. [GitHub](https://github.com/hautr33)
